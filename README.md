@@ -3,8 +3,9 @@ Just a test. Won't be here for long.
 
 
 
-[embeded repl.it example](embed.html)
-[Python programming exercises](classroom.html)
+## [embeded repl.it example](embed.html)
+
+## [Python programming exercises](classroom.html)
 
 
 <hr>
