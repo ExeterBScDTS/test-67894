@@ -3,7 +3,7 @@ Just a test. Won't be here for long.
 
 
 
-## [Embeded repl.it example](embed.html)
+## [Embedded repl.it example](embed.html)
 
 ## [Python programming exercises](classroom.html)
 
