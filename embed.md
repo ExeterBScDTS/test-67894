@@ -1,4 +1,4 @@
-# Embed
+# Embedded example
 
 This Python script can be run here.  It can also be edited.  For which you will need an account on <https://repl.it>
 
